@@ -1,0 +1,17 @@
+export { default as access } from './icon-access-anywhere.svg';
+export { default as arrow } from './icon-arrow.svg';
+export { default as bgCurvyDesktop } from './bg-curvy-desktop.svg';
+export { default as bgCurvyMobile } from './bg-curvy-mobile.svg';
+export { default as collaboration } from './icon-collaboration.svg';
+export { default as email } from './icon-email.svg';
+export { default as file } from './icon-any-file.svg';
+export { default as iIntro } from './illustration-intro.png';
+export { default as iProductive } from './illustration-stay-productive.png';
+export { default as location } from './icon-location.svg';
+export { default as logo } from './logo.svg';
+export { default as phone } from './icon-phone.svg';
+export { default as profile1 } from './profile-1.jpg';
+export { default as profile2 } from './profile-2.jpg';
+export { default as profile3 } from './profile-3.jpg';
+export { default as quotes } from './bg-quotes.png';
+export { default as security } from './icon-security.svg';
